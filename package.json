@@ -1,0 +1,25 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^10.8.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamRaboch/first-notes-app.git"
+  },
+  "author": "AdamRaboch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamRaboch/first-notes-app/issues"
+  },
+  "homepage": "https://github.com/AdamRaboch/first-notes-app#readme"
+}
